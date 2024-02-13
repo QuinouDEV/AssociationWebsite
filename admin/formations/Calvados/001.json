@@ -1,0 +1,16 @@
+{
+    "id": "001",
+    "nom": "test",
+    "description": "test",
+    "duree": "test",
+    "evenements": "test",
+    "nomFormateur": "test",
+    "emailFormateur": "test@gmail.com",
+    "telephoneFormateur": "test",
+    "prixFormation": "test",
+    "publicCible": "test",
+    "destinataires": "test",
+    "programme": "test",
+    "objectifs": "test",
+    "region": "Calvados"
+}

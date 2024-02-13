@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat';
+}
+#popup{
+    background-color: blue;
+    position:absolute;
+    width:600px;
+    height:300px;
+}
+
+.mod{
+    font-family: 'Montserrat';
+}
+
+#Ant{
+    font-family: 'Montserrat';
+    color:#98B22C;
+}
+
+
+
